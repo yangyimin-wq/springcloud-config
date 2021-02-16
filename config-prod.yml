@@ -1,1 +1,2 @@
-
+config:
+ info: "springcloud2020/config-prod.yml version =1"
